@@ -1,0 +1,41 @@
+body{
+    background-color: azure;
+}
+p{
+    color: black;
+    font-size: 18px;
+    text-align: justify;
+    text-decoration: none;
+    float: right;
+} 
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align:center
+}
+ul{
+    list-style-type: square;
+}
+a{
+    color: blue;
+    text-decoration: underline;
+    text-transform: none;
+    letter-spacing: 2px;
+}
+img{
+    height: 300px;
+    width: 600px;
+}
+img:hover{
+    filter:brightness(50%);
+}
+table{
+    width: 400px;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black
+}
+th{
+    border: 1px solid black
+}
